@@ -1,0 +1,42 @@
+#yo {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+
+body {
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background: black;
+    text-align: justify;
+}
+
+.pClass {
+    font-size: x-large;
+    color:rgb(233, 233, 14);
+}
+
+#henry {
+    float: left;
+    margin: 0 1em 1em 0;
+    width: 340px;
+    height: 60px;
+}
+
+h1 {
+    color: rgb(233, 233, 14);
+}
+
+a {
+    color:rgb(233, 233, 14);
+}
+
+.imga {
+    width: 26px;
+    height: 21px;
+}
+
+#linkedin {
+    width: 28px;
+    height: 28px;
+}
